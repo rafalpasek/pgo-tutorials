@@ -1,0 +1,9 @@
+Klasy: Person
+
+Atrybuty i ich typy danych:
+Name: string
+Surname: string
+Age: string
+
+Metody i typy danych (parametry i typy zwracane)
+IntroduceYourself(): string
